@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HassanAbdullah3
+- 👋 Hi, I’m Hassan Abdullah
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning rust,go,python,gdscript and lua
 <!--- 📫 How to reach me--->
