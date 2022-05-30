@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hassan Abdullah
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning rust,go,python,gdscript and lua
+- 🌱 I’m currently learning rust,go,shell scripting,gdscript and lua
 <!--- 📫 How to reach me--->
 
 <!---
